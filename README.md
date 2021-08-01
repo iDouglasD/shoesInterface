@@ -11,7 +11,7 @@
 
 <br>
 <p align="center">
-  <img alt="shoesInterface" src=".github/gifshoes.gif" width="60%">
+  <img alt="shoesInterface" src=".github/gifshoes.gif" width="90%">
 </p>
 
 ## 🚀 Tecnologias
