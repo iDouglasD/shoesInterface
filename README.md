@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="shoesInterface" title="shoesInterface" src="" width="" />
+  <img alt="shoesInterface" title="shoesInterface" src=".github/logo.png" width="100%" />
 </h1>
 </h1>
 <p align="center">
@@ -11,7 +11,7 @@
 
 <br>
 <p align="center">
-  <img alt="shoesInterface" src="" width="">
+  <img alt="shoesInterface" src=".github/gifshoes.gif" width="60%">
 </p>
 
 ## 🚀 Tecnologias
@@ -20,6 +20,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -   HTML
 -   CSS
+
+Utilitários
+
+-   [CSS.gradient](https://cssgradient.io/)
+-   [Glass.effect](https://webdesign.tutsplus.com/tutorials/how-to-create-a-frosted-glass-effect-in-css--cms-32535)
+-   [Feather.icons](https://feathericons.com/)
 
 ## 💻 Projeto
 
